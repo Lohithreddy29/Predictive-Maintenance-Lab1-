@@ -3,13 +3,6 @@
 
 **Student:** Lohith Reddy Danda
 
-`https://img.shields.io/badge/Python-3.10-blue`
-`https://img.shields.io/badge/Jupyter-Notebook-orange`
-`https://img.shields.io/badge/Pandas-Data%20Analysis-yellow`
-`https://img.shields.io/badge/Scikit--Learn-Regression-green`
-`https://img.shields.io/badge/PostgreSQL-Neon%20DB-lightblue`
-`https://img.shields.io/badge/Project-Completed-success`
-
 ---
 
 ## Table of Contents
