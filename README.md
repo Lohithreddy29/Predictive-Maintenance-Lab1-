@@ -81,15 +81,18 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Includes:
-pandas
-numpy 
-matplotlib
-scikit‑learn
-sqlalchemy
-psycopg2‑binary
-jupyter
-python‑dotenv
+
+
+| Package            | Purpose                     |
+|--------------------|-----------------------------|
+| pandas             | Data manipulation           |
+| numpy              | Numerical operations        |
+| matplotlib         | Visualizations              |
+| scikit-learn       | Linear regression modeling  |
+| sqlalchemy         | SQL database connection     |
+| psycopg2-binary    | PostgreSQL driver           |
+| jupyter            | Notebook environment        |
+| python-dotenv      | Environment variable loading |
 
 ---
 
