@@ -19,13 +19,13 @@ CSCN8010 Practical Lab 1: Predictive Maintenance with Linear Regression-Based Al
 
 | Path / File | Description |
 |------------|-------------|
-| **data/** | Folder containing all datasets |
+| **data** | Folder containing all datasets |
 | alerts_log.csv | Logged alerts from streaming simulation |
 | RMBR4-2_export_test.csv | Raw robot test dataset |
 | test_data_synthetic.csv | Synthetic test dataset |
-| **notebooks/** | Jupyter notebooks for analysis |
+| **notebooks** | Jupyter notebooks for analysis |
 | analysis.ipynb | Full pipeline: cleaning → regression → alerts → SQL → plots |
-| **src/** | Source code modules |
+| **src** | Source code modules |
 |  __init__.py | Package initializer |
 |  alerts.py | Alert & error classification logic |
 |  plots.py | Visualization functions |
