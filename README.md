@@ -34,11 +34,12 @@ CSCN8010 Practical Lab 1: Predictive Maintenance with Linear Regression-Based Al
 |  thresholds.py | MinC, MaxC, T threshold definitions |
 
 
+#  Installation
 
-# Create and activate a virtual environment:python -m venv venv venv\Scripts\activate  
+ Create and activate a virtual environment:python -m venv venv venv\Scripts\activate  
 #Windows source venv/bin/activate   # Mac/Linux
 
-# Install dependencies: pip install -r requirements.txt
+ Install dependencies: pip install -r requirements.txt
 
 
 The file includes:
@@ -77,21 +78,7 @@ Run all cells in order to reproduce:
 
 #  SQL Database Setup (Neon)
 
-Create a `.env` file in the project root:
-Run all cells in order to reproduce:
 
-- data cleaning  
-- regression modeling  
-- thresholding  
-- alert/error detection  
-- streaming simulation  
-- event logging  
-- SQL integration  
-- visualizations  
-
----
-
-#  SQL Database Setup (Neon)
 
 Create a `.env` file in the project root:
 DB_USER=neondb_owner 
