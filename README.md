@@ -1,15 +1,3 @@
-Absolutely, Lohithreddy — here is your **complete, polished, ready‑to‑paste README.md**, including:
-
-- Title  
-- Badges  
-- Table of Contents  
-- Features  
-- Live Alert Monitoring  
-- Everything formatted cleanly and professionally  
-
-You can copy this entire block directly into your README with no edits needed.
-
----
 
 # CSCN8010 Practical Lab 1: Predictive Maintenance with Linear Regression-Based Alerts
 
